@@ -293,8 +293,12 @@ nav {
         width: 100%;
     }
 
+
+
+}
+
+@media (min-width: 640px) {
     .mobile-menu {
         display: none;
     }
-
 }

@@ -121,5 +121,5 @@ function renderProducts (arr) {
     }
 }
 
-//*Con esta llamo la Funcion, pero asi me sirve para sincronizacion el dia de manana
+//*Con esta llamo la Funcion, pero asi me sirve para sincronizacion el dia de manan
 renderProducts (productList)
